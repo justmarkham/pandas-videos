@@ -2,10 +2,10 @@
 
 This repository contains all the materials related to the [Data School](http://www.dataschool.io/) video series about Python's [pandas library](http://pandas.pydata.org/).
 
-## Videos (playlist)
+## Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
 
-1. What is pandas? (Introduction to the Q&A series) (6:24)
-2. How do I read a tabular data file into pandas? (8:54)
+1. [What is pandas? (Introduction to the Q&A series)](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1) (6:25)
+2. [How do I read a tabular data file into pandas?](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2) (8:55)
 
 ## IPython/Jupyter Notebook
 
