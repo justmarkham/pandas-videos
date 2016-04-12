@@ -6,6 +6,7 @@ This repository contains all the materials related to the [Data School](http://w
 
 1. [What is pandas? (Introduction to the Q&A series)](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1) (6:25)
 2. [How do I read a tabular data file into pandas?](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2) (8:55)
+3. [How do I select a pandas Series from a DataFrame?](https://www.youtube.com/watch?v=zxqjeyKP2Tk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=3) (11:11)
 
 ## IPython/Jupyter Notebook
 
