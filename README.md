@@ -9,6 +9,8 @@ This repository contains all the materials related to the [Data School](http://w
 3. [How do I select a pandas Series from a DataFrame?](https://www.youtube.com/watch?v=zxqjeyKP2Tk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=3) (11:11)
 4. Why do some pandas commands end with parentheses (and others don't)?
 5. How do I rename columns in a pandas DataFrame?
+6. How do I remove columns from a pandas DataFrame?
+7. How do I sort a pandas DataFrame or a Series?
 
 ## IPython/Jupyter Notebook
 
