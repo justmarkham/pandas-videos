@@ -11,6 +11,8 @@ This repository contains all the materials related to the [Data School](http://w
 5. How do I rename columns in a pandas DataFrame?
 6. How do I remove columns from a pandas DataFrame?
 7. How do I sort a pandas DataFrame or a Series?
+8. How do I filter rows of a pandas DataFrame by column value?
+9. How do I apply multiple filter criteria to a pandas DataFrame?
 
 ## IPython/Jupyter Notebook
 
