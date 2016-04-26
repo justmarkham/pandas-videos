@@ -10,7 +10,7 @@ This repository contains all the materials related to the [Data School](http://w
 4. [Why do some pandas commands end with parentheses (and others don't)?](https://www.youtube.com/watch?v=hSrDViyKWVk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=4) (8:46)
 5. [How do I rename columns in a pandas DataFrame?](https://www.youtube.com/watch?v=0uBirYFhizE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=5) (9:37)
 6. [How do I remove columns from a pandas DataFrame?](https://www.youtube.com/watch?v=gnUKkS964WQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=6) (6:36)
-7. How do I sort a pandas DataFrame or a Series?
+7. [How do I sort a pandas DataFrame or a Series?](https://www.youtube.com/watch?v=zY4doF6xSxY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=7) (8:57)
 8. How do I filter rows of a pandas DataFrame by column value?
 9. How do I apply multiple filter criteria to a pandas DataFrame?
 
