@@ -12,7 +12,7 @@ This repository contains all the materials related to the [Data School](http://w
 6. [How do I remove columns from a pandas DataFrame?](https://www.youtube.com/watch?v=gnUKkS964WQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=6) (6:36)
 7. [How do I sort a pandas DataFrame or a Series?](https://www.youtube.com/watch?v=zY4doF6xSxY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=7) (8:57)
 8. [How do I filter rows of a pandas DataFrame by column value?](https://www.youtube.com/watch?v=2AFGPdNn4FM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=8) (13:45)
-9. How do I apply multiple filter criteria to a pandas DataFrame?
+9. [How do I apply multiple filter criteria to a pandas DataFrame?](https://www.youtube.com/watch?v=YPItfQ87qjM&index=9&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) (9:52)
 
 ## IPython/Jupyter Notebook
 
