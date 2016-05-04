@@ -13,6 +13,11 @@ This repository contains all the materials related to the [Data School](http://w
 7. [How do I sort a pandas DataFrame or a Series?](https://www.youtube.com/watch?v=zY4doF6xSxY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=7) (8:57)
 8. [How do I filter rows of a pandas DataFrame by column value?](https://www.youtube.com/watch?v=2AFGPdNn4FM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=8) (13:45)
 9. [How do I apply multiple filter criteria to a pandas DataFrame?](https://www.youtube.com/watch?v=YPItfQ87qjM&index=9&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) (9:52)
+10. Your pandas questions answered!
+11. How do I use the "axis" parameter in pandas?
+12. How do I use string methods in pandas?
+13. How do I change the data type of a pandas Series?
+14. When should I use a "groupby" in pandas?
 
 ## IPython/Jupyter Notebook
 
