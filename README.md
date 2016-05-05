@@ -1,8 +1,10 @@
-## Python pandas Q&A video series
+# Python pandas Q&A video series
 
-This repository contains all the materials related to the [Data School](http://www.dataschool.io/) video series about Python's [pandas library](http://pandas.pydata.org/).
+Materials related to the [Data School](http://www.dataschool.io/) video series about Python's [pandas library](http://pandas.pydata.org/)
 
-### [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb): commented code and resources links from each video
+### [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb)
+
+Commented code and resources links from each video
 
 ### Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
 
