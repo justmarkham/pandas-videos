@@ -1,8 +1,10 @@
-# Python pandas Q&A video series
+## Python pandas Q&A video series
 
 This repository contains all the materials related to the [Data School](http://www.dataschool.io/) video series about Python's [pandas library](http://pandas.pydata.org/).
 
-## Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
+### [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb): commented code and resources links from each video
+
+### Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
 
 1. [What is pandas? (Introduction to the Q&A series)](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1) (6:24)
 2. [How do I read a tabular data file into pandas?](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2) (8:54)
@@ -19,11 +21,7 @@ This repository contains all the materials related to the [Data School](http://w
 13. How do I change the data type of a pandas Series?
 14. When should I use a "groupby" in pandas?
 
-## IPython/Jupyter Notebook
-
-This [notebook](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb) contains the code and resource links from every video in the series.
-
-## Datasets
+### Datasets
 
 Filename | Description | Raw File | Original Source | Other
 --- | --- | --- | --- | ---
