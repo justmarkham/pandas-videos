@@ -16,9 +16,9 @@ Commented code and resources links from each video
 6. [How do I remove columns from a pandas DataFrame?](https://www.youtube.com/watch?v=gnUKkS964WQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=6) (6:35)
 7. [How do I sort a pandas DataFrame or a Series?](https://www.youtube.com/watch?v=zY4doF6xSxY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=7) (8:56)
 8. [How do I filter rows of a pandas DataFrame by column value?](https://www.youtube.com/watch?v=2AFGPdNn4FM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=8) (13:44)
-9. [How do I apply multiple filter criteria to a pandas DataFrame?](https://www.youtube.com/watch?v=YPItfQ87qjM&index=9&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) (9:51)
+9. [How do I apply multiple filter criteria to a pandas DataFrame?](https://www.youtube.com/watch?v=YPItfQ87qjM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=9) (9:51)
 10. [Your pandas questions answered!](https://www.youtube.com/watch?v=B-r9VuK80dk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=10) (9:06)
-11. How do I use the "axis" parameter in pandas?
+11. [How do I use the "axis" parameter in pandas?](https://www.youtube.com/watch?v=PtO3t6ynH-8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=11) (8:33)
 12. How do I use string methods in pandas?
 13. How do I change the data type of a pandas Series?
 14. When should I use a "groupby" in pandas?
