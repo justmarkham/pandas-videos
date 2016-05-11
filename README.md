@@ -1,6 +1,6 @@
 # Python pandas Q&A video series
 
-Materials related to the [Data School](http://www.dataschool.io/) video series about Python's [pandas library](http://pandas.pydata.org/)
+Materials from the Data School video series about Python's [pandas library](http://pandas.pydata.org/). Read more about the series on the [Data School blog](http://www.dataschool.io/easier-data-analysis-with-pandas/).
 
 ### [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb)
 
