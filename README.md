@@ -19,9 +19,9 @@ Commented code and resources links from each video
 9. [How do I apply multiple filter criteria to a pandas DataFrame?](https://www.youtube.com/watch?v=YPItfQ87qjM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=9) (9:51)
 10. [Your pandas questions answered!](https://www.youtube.com/watch?v=B-r9VuK80dk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=10) (9:06)
 11. [How do I use the "axis" parameter in pandas?](https://www.youtube.com/watch?v=PtO3t6ynH-8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=11) (8:33)
-12. How do I use string methods in pandas?
-13. How do I change the data type of a pandas Series?
-14. When should I use a "groupby" in pandas?
+12. [How do I use string methods in pandas?](https://www.youtube.com/watch?v=bofaC0IckHo&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=12) (6:16)
+13. How do I change the data type of a pandas Series? (coming May 17)
+14. When should I use a "groupby" in pandas? (coming May 19)
 
 ### Datasets
 
