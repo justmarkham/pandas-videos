@@ -23,7 +23,7 @@ Commented code and resources links from each video
 11. [How do I use the "axis" parameter in pandas?](https://www.youtube.com/watch?v=PtO3t6ynH-8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=11) (8:33)
 12. [How do I use string methods in pandas?](https://www.youtube.com/watch?v=bofaC0IckHo&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=12) (6:16)
 13. [How do I change the data type of a pandas Series?](https://www.youtube.com/watch?v=V0AWyzVMf54&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=13) (7:28)
-14. When should I use a "groupby" in pandas? (coming May 19)
+14. [When should I use a "groupby" in pandas?](https://www.youtube.com/watch?v=qy0fDqoMJx8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=14) (8:24)
 15. How do I explore a pandas Series? (coming May 24)
 16. How do I handle missing values in pandas? (coming May 26)
 
