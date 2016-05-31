@@ -26,7 +26,7 @@ Commented code and resources links from each video
 14. [When should I use a "groupby" in pandas?](https://www.youtube.com/watch?v=qy0fDqoMJx8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=14) (8:24)
 15. [How do I explore a pandas Series?](https://www.youtube.com/watch?v=QTVTq8SPzxM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=15) (9:50)
 16. [How do I handle missing values in pandas?](https://www.youtube.com/watch?v=fCMrO_VzeL8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=16) (14:27)
-17. What do I need to know about the pandas index? (Part 1) (coming May 31)
+17. [What do I need to know about the pandas index? (Part 1)](https://www.youtube.com/watch?v=OYZNk7Z9s6I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=17) (13:36)
 18. What do I need to know about the pandas index? (Part 2) (coming June 2)
 
 ### Datasets
