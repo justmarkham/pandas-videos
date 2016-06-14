@@ -29,7 +29,7 @@ Commented code and resources links from each video
 17. [What do I need to know about the pandas index? (Part 1)](https://www.youtube.com/watch?v=OYZNk7Z9s6I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=17) (13:36)
 18. [What do I need to know about the pandas index? (Part 2)](https://www.youtube.com/watch?v=15q-is8P_H4&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=18) (10:38)
 19. [How do I select multiple rows and columns from a pandas DataFrame?](https://www.youtube.com/watch?v=xvpNA7bC8cs&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=19) (21:46)
-20. When should I use the "inplace" parameter in pandas? (coming June 14)
+20. [When should I use the "inplace" parameter in pandas?](https://www.youtube.com/watch?v=XaCSdr7pPmY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=20) (10:18)
 
 ### Datasets
 
