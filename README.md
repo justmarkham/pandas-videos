@@ -28,6 +28,8 @@ The [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pa
 18. [What do I need to know about the pandas index? (Part 2)](https://www.youtube.com/watch?v=15q-is8P_H4&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=18) (10:38)
 19. [How do I select multiple rows and columns from a pandas DataFrame?](https://www.youtube.com/watch?v=xvpNA7bC8cs&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=19) (21:46)
 20. [When should I use the "inplace" parameter in pandas?](https://www.youtube.com/watch?v=XaCSdr7pPmY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=20) (10:18)
+21. How do I make my pandas DataFrame smaller and faster? (coming June 21)
+22. How do I use pandas with scikit-learn to create Kaggle submissions? (coming June 28)
 
 ### Datasets
 
