@@ -30,6 +30,7 @@ The [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pa
 20. [When should I use the "inplace" parameter in pandas?](https://www.youtube.com/watch?v=XaCSdr7pPmY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=20) (10:18)
 21. [How do I make my pandas DataFrame smaller and faster?](https://www.youtube.com/watch?v=wDYDYGyN_cw&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=21) (19:05)
 22. How do I use pandas with scikit-learn to create Kaggle submissions? (coming June 28)
+23. More of your pandas questions answered! (coming July 5)
 
 ### Datasets
 
