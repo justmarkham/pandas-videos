@@ -32,6 +32,8 @@ The [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pa
 22. How do I use pandas with scikit-learn to create Kaggle submissions? (coming June 28)
 23. More of your pandas questions answered! (coming July 5)
 24. How do I create dummy variables in pandas? (coming July 12)
+25. How do I work with dates and times in pandas? (coming July 19)
+26. How do I find and remove duplicate rows in pandas? (coming July 26)
 
 ### Datasets
 
