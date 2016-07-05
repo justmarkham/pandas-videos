@@ -34,6 +34,7 @@ The [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pa
 24. How do I create dummy variables in pandas? (coming July 12)
 25. How do I work with dates and times in pandas? (coming July 19)
 26. How do I find and remove duplicate rows in pandas? (coming July 26)
+27. How do I avoid a SettingWithCopyWarning in pandas? (coming August 2)
 
 ### Datasets
 
