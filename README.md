@@ -35,6 +35,7 @@ The [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pa
 25. [How do I work with dates and times in pandas?](https://www.youtube.com/watch?v=yCgJGsg0Xa4&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=25) (10:20)
 26. [How do I find and remove duplicate rows in pandas?](https://www.youtube.com/watch?v=ht5buXUMqkQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=26) (9:47)
 27. [How do I avoid a SettingWithCopyWarning in pandas?](https://www.youtube.com/watch?v=4R4WsDJ-KVc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=27) (13:29)
+28. How do I change display options in pandas? (coming August 9)
 
 ### Datasets
 
