@@ -36,6 +36,7 @@ The [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pa
 26. [How do I find and remove duplicate rows in pandas?](https://www.youtube.com/watch?v=ht5buXUMqkQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=26) (9:47)
 27. [How do I avoid a SettingWithCopyWarning in pandas?](https://www.youtube.com/watch?v=4R4WsDJ-KVc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=27) (13:29)
 28. [How do I change display options in pandas?](https://www.youtube.com/watch?v=yiO43TQ4xvc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=28) (14:55)
+29. How do I create a pandas DataFrame from another object? (coming August 16)
 
 ### Datasets
 
