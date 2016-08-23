@@ -37,7 +37,7 @@ The [IPython/Jupyter Notebook](http://nbviewer.jupyter.org/github/justmarkham/pa
 27. [How do I avoid a SettingWithCopyWarning in pandas?](https://www.youtube.com/watch?v=4R4WsDJ-KVc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=27) (13:29)
 28. [How do I change display options in pandas?](https://www.youtube.com/watch?v=yiO43TQ4xvc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=28) (14:55)
 29. [How do I create a pandas DataFrame from another object?](https://www.youtube.com/watch?v=-Ov1N1_FbP8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=29) (14:25)
-30. How do I apply a function to a pandas Series or DataFrame? (coming August 23)
+30. [How do I apply a function to a pandas Series or DataFrame?](https://www.youtube.com/watch?v=P_q0tkYqvSk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=30) (17:57)
 
 ### Datasets
 
