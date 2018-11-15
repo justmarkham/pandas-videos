@@ -2,11 +2,11 @@
 
 Read about the series, and view all of the videos on one page: [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/).
 
-### Code
+### Jupyter Notebooks
 
-- [Jupyter notebook for videos 1 through 30](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb)
-- [Jupyter notebook for "4 new time-saving tricks in pandas"](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_tricks.ipynb)
-- [Jupyter notebook for "5 new changes in pandas you need to know about"](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_changes.ipynb)
+- [Main notebook (videos 1 through 30)](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb)
+- [Notebook for "4 new time-saving tricks in pandas"](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_tricks.ipynb)
+- [Notebook for "5 new changes in pandas you need to know about"](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_changes.ipynb)
 
 ### Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
 
@@ -40,9 +40,10 @@ Read about the series, and view all of the videos on one page: [Easier data anal
 28. [How do I change display options in pandas?](https://www.youtube.com/watch?v=yiO43TQ4xvc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=28) (14:55)
 29. [How do I create a pandas DataFrame from another object?](https://www.youtube.com/watch?v=-Ov1N1_FbP8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=29) (14:25)
 30. [How do I apply a function to a pandas Series or DataFrame?](https://www.youtube.com/watch?v=P_q0tkYqvSk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=30) (17:57)
-31. Bonus: [Your pandas questions answered! (webcast)](https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31) (1:56:01)
-32. Bonus: [4 new time-saving tricks in pandas](https://www.youtube.com/watch?v=-NbY7E9hKxk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=32) (14:50)
-33. Bonus: [5 new changes in pandas you need to know about](https://www.youtube.com/watch?v=te5JrSCW-LY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=33) (20:54)
+31. **Bonus:** [How do I use the MultiIndex in pandas?](https://www.youtube.com/watch?v=tcRGa2soc-c&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31) (25:00)
+32. **Bonus:** [4 new time-saving tricks in pandas](https://www.youtube.com/watch?v=-NbY7E9hKxk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=32) (14:50)
+33. **Bonus:** [5 new changes in pandas you need to know about](https://www.youtube.com/watch?v=te5JrSCW-LY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=33) (20:54)
+34. **Bonus:** [Your pandas questions answered! (webcast)](https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=34) (1:56:01)
 
 ### Datasets
 
