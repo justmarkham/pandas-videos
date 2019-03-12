@@ -1,0 +1,8 @@
+name: pandas-videos
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
