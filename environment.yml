@@ -1,6 +1,6 @@
 name: pandas-videos
 channels:
-  - conda-forge
+  - defaults
 dependencies:
   - pandas
   - numpy
