@@ -4,7 +4,7 @@ Read about the series, and view all of the videos on one page: [Easier data anal
 
 ## Jupyter Notebooks
 
-- My top 25 pandas tricks
+- [My top 25 pandas tricks](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb)
 - [Python pandas Q&A series](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb) (videos 1 to 30)
 - [How do I use the MultiIndex in pandas?](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_multiindex.ipynb) (video 31)
 - [4 new time-saving tricks in pandas](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_tricks.ipynb) (video 32)
