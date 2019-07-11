@@ -2,14 +2,15 @@
 
 Read about the series, and view all of the videos on one page: [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/).
 
-### Jupyter Notebooks
+## Jupyter Notebooks
 
-- [Main notebook (videos 1 through 30)](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb)
-- [Notebook for "How do I use the MultiIndex in pandas?"](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_multiindex.ipynb)
-- [Notebook for "4 new time-saving tricks in pandas"](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_tricks.ipynb)
-- [Notebook for "5 new changes in pandas you need to know about"](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_changes.ipynb)
+- My top 25 pandas tricks
+- [Python pandas Q&A series](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb) (videos 1 to 30)
+- [How do I use the MultiIndex in pandas?](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_multiindex.ipynb) (video 31)
+- [4 new time-saving tricks in pandas](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_tricks.ipynb) (video 32)
+- [5 new changes in pandas you need to know about](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_changes.ipynb) (video 33)
 
-### Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
+## Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
 
 1. [What is pandas? (Introduction to the Q&A series)](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1) (6:24)
 2. [How do I read a tabular data file into pandas?](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2) (8:54)
@@ -46,7 +47,7 @@ Read about the series, and view all of the videos on one page: [Easier data anal
 33. **Bonus:** [5 new changes in pandas you need to know about](https://www.youtube.com/watch?v=te5JrSCW-LY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=33) (20:54)
 34. **Bonus:** [Your pandas questions answered! (webcast)](https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=34) (1:56:01)
 
-### Datasets
+## Datasets
 
 Filename | Description | Raw File | Original Source | Other
 --- | --- | --- | --- | ---
