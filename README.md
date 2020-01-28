@@ -4,11 +4,12 @@ Read about the series, and view all of the videos on one page: [Easier data anal
 
 ## Jupyter Notebooks
 
-- [My top 25 pandas tricks](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb)
 - [Python pandas Q&A series](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb) (videos 1 to 30)
 - [How do I use the MultiIndex in pandas?](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_multiindex.ipynb) (video 31)
 - [4 new time-saving tricks in pandas](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_tricks.ipynb) (video 32)
 - [5 new changes in pandas you need to know about](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas_changes.ipynb) (video 33)
+- [My top 25 pandas tricks](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb) (video 34)
+- [Data Science Best Practices with pandas (PyCon 2019)](https://nbviewer.jupyter.org/github/justmarkham/pycon-2019-tutorial/blob/master/tutorial.ipynb) (video 35)
 
 ## Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
 
@@ -45,7 +46,9 @@ Read about the series, and view all of the videos on one page: [Easier data anal
 31. **Bonus:** [How do I use the MultiIndex in pandas?](https://www.youtube.com/watch?v=tcRGa2soc-c&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31) (25:00)
 32. **Bonus:** [4 new time-saving tricks in pandas](https://www.youtube.com/watch?v=-NbY7E9hKxk&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=32) (14:50)
 33. **Bonus:** [5 new changes in pandas you need to know about](https://www.youtube.com/watch?v=te5JrSCW-LY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=33) (20:54)
-34. **Bonus:** [Your pandas questions answered! (webcast)](https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=34) (1:56:01)
+34. **Bonus:** [My top 25 pandas tricks](https://www.youtube.com/watch?v=RlIiVeig3hc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=34) (27:37)
+35. **Bonus:** [Data Science Best Practices with pandas (PyCon 2019)](https://www.youtube.com/watch?v=dPwLlJkSHLo&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=35) (1:44:16)
+36. **Bonus:** [Your pandas questions answered! (webcast)](https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=36) (1:56:01)
 
 ## Datasets
 
