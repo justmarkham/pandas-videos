@@ -1,6 +1,6 @@
-# Python pandas Q&A video series
+# Python pandas video series
 
-Read about the series, and view all of the videos on one page: [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/).
+The series is also available as a [free online course](https://courses.dataschool.io/pandas-in-30-days) that includes updated content, exercises, and a certificate of completion.
 
 ## 📺 Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y))
 
